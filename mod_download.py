@@ -19,6 +19,8 @@ def download(session, url, dest):
 def get_json(session, url):
     r = session.get(url, headers={'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0'})
     if r.status_code != 200:
+        if r.status_code == 504:
+            return get_json(session, url)
         print("Error %d trying to access %s" % (r.status_code, url))
         print(r.text)
         return None
