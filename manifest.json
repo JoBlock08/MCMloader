@@ -1,0 +1,134 @@
+{
+  "minecraft": {
+    "version": "1.15.2",
+    "modLoaders": [
+      {
+        "id": "forge-31.1.75",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "Modded OneBlock",
+  "version": "1.5.0",
+  "author": "ExpiredBeatle49",
+  "files": [
+    {
+      "projectID": 239197,
+      "fileID": 2949785,
+      "required": true
+    },
+    {
+      "projectID": 223852,
+      "fileID": 2887674,
+      "required": true
+    },
+    {
+      "projectID": 32274,
+      "fileID": 2946765,
+      "required": true
+    },
+    {
+      "projectID": 287342,
+      "fileID": 2947549,
+      "required": true
+    },
+    {
+      "projectID": 357557,
+      "fileID": 2873656,
+      "required": true
+    },
+    {
+      "projectID": 368718,
+      "fileID": 2948684,
+      "required": true
+    },
+    {
+      "projectID": 246764,
+      "fileID": 2941370,
+      "required": true
+    },
+    {
+      "projectID": 231484,
+      "fileID": 2905554,
+      "required": true
+    },
+    {
+      "projectID": 228756,
+      "fileID": 2898344,
+      "required": true
+    },
+    {
+      "projectID": 266515,
+      "fileID": 2947550,
+      "required": true
+    },
+    {
+      "projectID": 60089,
+      "fileID": 2849221,
+      "required": true
+    },
+    {
+      "projectID": 353814,
+      "fileID": 2893509,
+      "required": true
+    },
+    {
+      "projectID": 248787,
+      "fileID": 2883494,
+      "required": true
+    },
+    {
+      "projectID": 238372,
+      "fileID": 2915089,
+      "required": true
+    },
+    {
+      "projectID": 250898,
+      "fileID": 2897373,
+      "required": true
+    },
+    {
+      "projectID": 271050,
+      "fileID": 2885530,
+      "required": true
+    },
+    {
+      "projectID": 226410,
+      "fileID": 2898245,
+      "required": true
+    },
+    {
+      "projectID": 238222,
+      "fileID": 2944279,
+      "required": true
+    },
+    {
+      "projectID": 311880,
+      "fileID": 2938056,
+      "required": true
+    },
+    {
+      "projectID": 349452,
+      "fileID": 2876969,
+      "required": true
+    },
+    {
+      "projectID": 280294,
+      "fileID": 2944175,
+      "required": true
+    },
+    {
+      "projectID": 278993,
+      "fileID": 2873657,
+      "required": true
+    },
+    {
+      "projectID": 351725,
+      "fileID": 2894370,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
